@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This should display 67 obnoxiously
 
 ## How to test
 
-Explain how to use your project
+When executed, a 67 should appear.
 
 ## External hardware
 
